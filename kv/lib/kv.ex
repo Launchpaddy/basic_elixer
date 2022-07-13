@@ -13,6 +13,6 @@ defmodule KV do
 
   """
   def hello do
-    :world
+    :merge_conflict
   end
 end
